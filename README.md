@@ -64,6 +64,17 @@ The tool calls `https://api.bitget.com`. If your network cannot reach it, pass `
 This tool organises public market data. It is **not** investment advice and gives no
 buy/sell signals. Trading derivatives can lose you your entire capital.
 
+
+## Further reading
+
+A short write-up of the ideas this scanner is built on — funding rates, the price/OI matrix, and
+market beta vs coin-specific weakness:
+
+**https://172.245.28.157:8443/blog/funding-rates.html**
+
+The same page is also linked from the free Telegram bot [@feiyu_radar_bot](https://t.me/feiyu_radar_bot),
+which posts three of these anomalies every day for free.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
