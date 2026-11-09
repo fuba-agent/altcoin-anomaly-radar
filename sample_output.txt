@@ -1,0 +1,16 @@
+6 anomalies found (volume >= $3M, move >= 15%), majors excluded
+
+ 1. UAI        0.04443      24h  -40.4%  vol $   18M
+    - 24h move -40.4%
+ 2. PIEVERSE   1.81846      24h  +22.7%  vol $    3M
+    - 24h move +22.7%
+ 3. RSR        0.001708     24h   +1.2%  vol $    4M
+    - funding -0.217%/8h — shorts crowded, paying longs (-238% annualised)
+ 4. ONE        0.001475     24h  -20.5%  vol $    9M
+    - 24h move -20.5%
+ 5. AERO       0.5787       24h   -2.6%  vol $    3M
+    - funding -0.147%/4h — shorts crowded, paying longs (-323% annualised)
+ 6. HOT        0.0004253    24h   -1.6%  vol $    8M
+    - funding -0.153%/1h — shorts crowded, paying longs (-1342% annualised)
+
+Data observations only, not trading advice.
