@@ -72,6 +72,10 @@ market beta vs coin-specific weakness:
 
 **https://172.245.28.157:8443/blog/funding-rates.html**
 
+And a walkthrough of how the scanner itself is built:
+
+**https://172.245.28.157:8443/blog/scan-800-altcoins.html**
+
 The same page is also linked from the free Telegram bot [@feiyu_radar_bot](https://t.me/feiyu_radar_bot),
 which posts three of these anomalies every day for free.
 
