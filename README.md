@@ -79,6 +79,9 @@ And a walkthrough of how the scanner itself is built:
 The same page is also linked from the free Telegram bot [@feiyu_radar_bot](https://t.me/feiyu_radar_bot),
 which posts three of these anomalies every day for free.
 
+Daily anomaly notes (Chinese, updated every day): [Altcoin Radar channel](https://t.me/siren1109) —
+funding-rate extremes, 24h movers and OI shifts, plus the occasional trade-review write-up.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
